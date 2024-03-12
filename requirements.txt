@@ -1,0 +1,11 @@
+streamlit
+scipy
+numpy
+matplotlib
+opencv-python-headless
+torch
+torchvision
+tqdm
+Pillow
+h5py
+streamlit_option_menu
